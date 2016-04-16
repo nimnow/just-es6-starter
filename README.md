@@ -1,7 +1,8 @@
-#es6(ECMAScript 2015) stater with babel & webpack-dev-server
+#just es6 stater
+##with babel & webpack-dev-server
 
-## Installation
+### Installation
 `npm i`
 
-## start
+### start
 `npm start`
